@@ -1,0 +1,22 @@
+C:\Users\Student\source\repos\CyberSecurityChatbotGUI\CyberSecurityChatbotGUI\obj\Debug\CyberSecurityChatbotGUI.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\CyberSecurityChatbotGUI\CyberSecurityChatbotGUI\obj\Debug\CyberSecurityChatbotGUI.Form1.resources
+C:\Users\Student\source\repos\CyberSecurityChatbotGUI\CyberSecurityChatbotGUI\obj\Debug\CyberSecurityChatbotGUI.Properties.Resources.resources
+C:\Users\Student\source\repos\CyberSecurityChatbotGUI\CyberSecurityChatbotGUI\obj\Debug\CyberSecurityChatbotGUI.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\CyberSecurityChatbotGUI\CyberSecurityChatbotGUI\obj\Debug\CyberSecurityChatbotGUI.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\CyberSecurityChatbotGUI\CyberSecurityChatbotGUI\bin\Debug\CyberSecurityChatbotGUI.exe.config
+C:\Users\Student\source\repos\CyberSecurityChatbotGUI\CyberSecurityChatbotGUI\bin\Debug\CyberSecurityChatbotGUI.exe
+C:\Users\Student\source\repos\CyberSecurityChatbotGUI\CyberSecurityChatbotGUI\bin\Debug\CyberSecurityChatbotGUI.pdb
+C:\Users\Student\source\repos\CyberSecurityChatbotGUI\CyberSecurityChatbotGUI\obj\Debug\CyberSecurityChatbotGUI.exe
+C:\Users\Student\source\repos\CyberSecurityChatbotGUI\CyberSecurityChatbotGUI\obj\Debug\CyberSecurityChatbotGUI.pdb
+C:\Users\Student\source\repos\CyberSecurityChatbotGUI\CyberSecurityChatbotGUI\obj\Debug\CyberSecurityChatbotGUI.exe.config
+C:\Users\Student\source\repos\POE PART 2\CyberSecurityChatbotGUI\CyberSecurityChatbotGUI\bin\Debug\CyberSecurityChatbotGUI.exe.config
+C:\Users\Student\source\repos\POE PART 2\CyberSecurityChatbotGUI\CyberSecurityChatbotGUI\bin\Debug\CyberSecurityChatbotGUI.exe
+C:\Users\Student\source\repos\POE PART 2\CyberSecurityChatbotGUI\CyberSecurityChatbotGUI\bin\Debug\CyberSecurityChatbotGUI.pdb
+C:\Users\Student\source\repos\POE PART 2\CyberSecurityChatbotGUI\CyberSecurityChatbotGUI\obj\Debug\CyberSecurityChatbotGUI.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\POE PART 2\CyberSecurityChatbotGUI\CyberSecurityChatbotGUI\obj\Debug\CyberSecurityChatbotGUI.exe.config
+C:\Users\Student\source\repos\POE PART 2\CyberSecurityChatbotGUI\CyberSecurityChatbotGUI\obj\Debug\CyberSecurityChatbotGUI.Form1.resources
+C:\Users\Student\source\repos\POE PART 2\CyberSecurityChatbotGUI\CyberSecurityChatbotGUI\obj\Debug\CyberSecurityChatbotGUI.Properties.Resources.resources
+C:\Users\Student\source\repos\POE PART 2\CyberSecurityChatbotGUI\CyberSecurityChatbotGUI\obj\Debug\CyberSecurityChatbotGUI.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\POE PART 2\CyberSecurityChatbotGUI\CyberSecurityChatbotGUI\obj\Debug\CyberSecurityChatbotGUI.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\POE PART 2\CyberSecurityChatbotGUI\CyberSecurityChatbotGUI\obj\Debug\CyberSecurityChatbotGUI.exe
+C:\Users\Student\source\repos\POE PART 2\CyberSecurityChatbotGUI\CyberSecurityChatbotGUI\obj\Debug\CyberSecurityChatbotGUI.pdb
